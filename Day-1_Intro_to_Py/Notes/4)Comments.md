@@ -2,8 +2,8 @@ Comments are ignored by Python.
 
 
 
-**Single-line comment**
-
+**Single-line comment** : **#**
+(Hashtag)
 
 
 **#** This is a comment
@@ -12,9 +12,7 @@ print("Hello")
 
 
 
-**Multi-line comment**
-
-
+**Multi-line comment** : **"""** **"""** (Triple double quotes)
 
 **"""**
 

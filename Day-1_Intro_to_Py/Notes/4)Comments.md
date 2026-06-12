@@ -12,9 +12,9 @@ print("Hello")
 
 
 
-**Multi-line comment** : **"""** **"""** (Triple double quotes)
+**Multi-line comment** : **'''** (Triple single quotes)
 
-**"""**
+**'''**
 
 This is
 
@@ -22,7 +22,7 @@ a multi-line
 
 comment
 
-**"""**
+**'''**
 
 print("Hello")
 

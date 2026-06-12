@@ -3,9 +3,15 @@ Python is a high-level, easy-to-read programming language created by Guido van R
 It is widely used for:
 
 Web Development
+-------
 Data Science
+-------
 Artificial Intelligence
+-------
 Machine Learning
+-------
 Automation
+-------
 Game Development
+-------
 Cybersecurity

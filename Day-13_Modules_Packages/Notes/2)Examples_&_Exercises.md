@@ -174,3 +174,57 @@ string_tools.py
 Add useful functions to both modules and import them into `main.py`.
 
 ---
+
+# 28. Mini Project – Simple Utility Module
+
+Create:
+
+```text
+Day13_Modules/
+├── main.py
+└── calculator.py
+```
+
+### `calculator.py`
+
+```python
+def add(a, b):
+    return a + b
+
+def subtract(a, b):
+    return a - b
+
+def multiply(a, b):
+    return a * b
+
+def divide(a, b):
+    if b == 0:
+        return "Cannot divide by zero"
+    return a / b
+```
+
+### `main.py`
+
+```python
+import calculator
+
+a = 20
+b = 5
+
+print("Addition:", calculator.add(a, b))
+print("Subtraction:", calculator.subtract(a, b))
+print("Multiplication:", calculator.multiply(a, b))
+print("Division:", calculator.divide(a, b))
+```
+
+Output:
+
+```text
+Addition: 25
+Subtraction: 15
+Multiplication: 100
+Division: 4.0
+```
+
+---
+

@@ -998,29 +998,6 @@ except ValueError as error:
 
 ---
 
-# 65. Next Up: Day 15 – File Handling
-
-In Day 15, we will learn:
-
-- What File Handling is
-- Why File Handling is important
-- Opening Files
-- File Modes
-- Reading Files
-- `read()`
-- `readline()`
-- `readlines()`
-- Writing Files
-- `write()`
-- `writelines()`
-- Appending Data
-- `with open()`
-- File Paths
-- Working with Text Files
-- Working with CSV Files
-- File Exception Handling
-- Practical File Handling Programs
-- Mini Project
 - Challenge Project
 
 ---
